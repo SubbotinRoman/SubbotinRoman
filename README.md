@@ -37,24 +37,27 @@
 ![SASS](https://img.shields.io/badge/SASS-hotpink.svg?style=for-the-badge&logo=SASS&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
 ![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white)
-![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
-![Redux](https://img.shields.io/badge/redux-%23593d88.svg?style=for-the-badge&logo=redux&logoColor=white)
-![React Router](https://img.shields.io/badge/React_Router-CA4245?style=for-the-badge&logo=react-router&logoColor=white)
-![Next JS](https://img.shields.io/badge/Next-black?style=for-the-badge&logo=next.js&logoColor=white)
+![Vue.js](https://img.shields.io/badge/vuejs-%2335495e.svg?style=for-the-badge&logo=vuedotjs&logoColor=%234FC08D)
+![TailwindCSS](https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white)
+![Pinia](https://img.shields.io/badge/-Pinia-ffe165?style=for-the-badge&logo=Pinia&labelColor=fffcf0&logoColor=ffe165)
 ![Vite](https://img.shields.io/badge/vite-%23646CFF.svg?style=for-the-badge&logo=vite&logoColor=white)
+
+<br>
 
 <!-- Описание проектов -->
 <h3 align="center"> 💻 Мои проекты</h3>
 
-<br>
-
 <div width="100%" align="center">
 <!-- Проект № 1 -->
-  <a align="left" href="https://github.com/SubbotinRoman/counter-app" title="counter-app">
-  <img align="left" height="115" src="https://github-readme-stats.vercel.app/api/pin/?username=SubbotinRoman&repo=counter-app"></a>
+  <a align="left" href="https://github-readme-stats.vercel.app/api/pin/?" title="TodoApp-Vue.JS">
+  <img align="left" height="115" src="https://github-readme-stats.vercel.app/api/pin/?username=SubbotinRoman&repo=TodoApp-Vue.JS"></a>
 
 <!-- Проект № 2 -->
-  <a align="right" href="https://github.com/SubbotinRoman/ToDo-List" title="ToDo-List">
+  <a align="left" href="https://github-readme-stats.vercel.app/api/pin/?" title="counter-app">
+  <img align="left" height="115" src="https://github-readme-stats.vercel.app/api/pin/?username=SubbotinRoman&repo=counter-app"></a>
+
+<!-- Проект № 3 -->
+  <a align="right" href="https://github-readme-stats.vercel.app/api/pin/?" title="ToDo-List">
   <img align="right" height="115" src="https://github-readme-stats.vercel.app/api/pin/?username=SubbotinRoman&repo=ToDo-List"></a>
 </div>
 
