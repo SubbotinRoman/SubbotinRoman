@@ -50,15 +50,15 @@
 <div width="100%" align="center">
 <!-- Проект № 1 -->
   <a align="left" href="https://github-readme-stats.vercel.app/api/pin/?" title="TodoApp-Vue.JS">
-  <img align="left" height="90" src="https://github-readme-stats.vercel.app/api/pin/?username=SubbotinRoman&repo=TodoApp-Vue.JS"></a>
+  <img align="left" height="80" src="https://github-readme-stats.vercel.app/api/pin/?username=SubbotinRoman&repo=TodoApp-Vue.JS"></a>
 
 <!-- Проект № 2 -->
   <a align="left" href="https://github-readme-stats.vercel.app/api/pin/?" title="counter-app">
-  <img align="center" height="90" src="https://github-readme-stats.vercel.app/api/pin/?username=SubbotinRoman&repo=counter-app"></a>
+  <img align="center" height="80" src="https://github-readme-stats.vercel.app/api/pin/?username=SubbotinRoman&repo=counter-app"></a>
 
 <!-- Проект № 3 -->
   <a align="right" href="https://github-readme-stats.vercel.app/api/pin/?" title="ToDo-List">
-  <img align="right" height="90" src="https://github-readme-stats.vercel.app/api/pin/?username=SubbotinRoman&repo=ToDo-List"></a>
+  <img align="right" height="80" src="https://github-readme-stats.vercel.app/api/pin/?username=SubbotinRoman&repo=ToDo-List"></a>
 </div>
 
 <br/><br/><br/><br/><br/><br/>
