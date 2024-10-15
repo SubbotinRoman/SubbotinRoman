@@ -31,6 +31,8 @@
 <!-- Описание технического стека -->
 <h3 align="center">🛠 Мой технический стек</h3>
 
+<br>
+
 ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
 ![SASS](https://img.shields.io/badge/SASS-hotpink.svg?style=for-the-badge&logo=SASS&logoColor=white)
@@ -52,12 +54,12 @@
     <img style="width: 275px; height: auto;" src="https://github-readme-stats.vercel.app/api/pin/?username=SubbotinRoman&repo=TodoApp-Vue.JS" alt="TodoApp-Vue.JS" >
   </a>
 
-  <a href="https://github.com/SubbotinRoman/counter-app">
-    <img style="width: 275px; height: auto;" src="https://github-readme-stats.vercel.app/api/pin/?username=SubbotinRoman&repo=counter-app" alt="counter-app" >
+  <a href="https://github.com/SubbotinRoman/Counter-App-React.JS">
+    <img style="width: 275px; height: auto;" src="https://github-readme-stats.vercel.app/api/pin/?username=SubbotinRoman&repo=Counter-App-React.JS" alt="counter-app" >
   </a>
 
-  <a href="https://github.com/SubbotinRoman/ToDo-List">
-    <img style="width: 275px; height: auto;" src="https://github-readme-stats.vercel.app/api/pin/?username=SubbotinRoman&repo=ToDo-List" alt="ToDo-List" >
+  <a href="https://github.com/SubbotinRoman/ToDoList-JS">
+    <img style="width: 275px; height: auto;" src="https://github-readme-stats.vercel.app/api/pin/?username=SubbotinRoman&repo=ToDoList-JS" alt="ToDo-List" >
   </a>
 
 </div>
