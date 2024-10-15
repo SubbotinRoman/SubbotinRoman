@@ -52,15 +52,15 @@
 
   <!-- Каждая ссылка с уменьшенной карточкой -->
   <a href="https://github.com/SubbotinRoman/TodoApp-Vue.JS">
-    <img style="width: 270px; height: auto;" src="https://github-readme-stats.vercel.app/api/pin/?username=SubbotinRoman&repo=TodoApp-Vue.JS" alt="TodoApp-Vue.JS" >
+    <img style="width: 280px; height: auto;" src="https://github-readme-stats.vercel.app/api/pin/?username=SubbotinRoman&repo=TodoApp-Vue.JS" alt="TodoApp-Vue.JS" >
   </a>
 
   <a href="https://github.com/SubbotinRoman/counter-app">
-    <img style="width: 270px; height: auto;" src="https://github-readme-stats.vercel.app/api/pin/?username=SubbotinRoman&repo=counter-app" alt="counter-app" >
+    <img style="width: 280px; height: auto;" src="https://github-readme-stats.vercel.app/api/pin/?username=SubbotinRoman&repo=counter-app" alt="counter-app" >
   </a>
 
   <a href="https://github.com/SubbotinRoman/ToDo-List">
-    <img style="width: 270px; height: auto;" src="https://github-readme-stats.vercel.app/api/pin/?username=SubbotinRoman&repo=ToDo-List" alt="ToDo-List" >
+    <img style="width: 280px; height: auto;" src="https://github-readme-stats.vercel.app/api/pin/?username=SubbotinRoman&repo=ToDo-List" alt="ToDo-List" >
   </a>
 
 </div>
