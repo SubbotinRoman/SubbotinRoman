@@ -52,15 +52,15 @@
 
   <!-- Каждая ссылка с уменьшенной карточкой -->
   <a href="https://github.com/SubbotinRoman/TodoApp-Vue.JS">
-    <img style="width: 300px; height: auto;" src="https://github-readme-stats.vercel.app/api/pin/?username=SubbotinRoman&repo=TodoApp-Vue.JS" alt="TodoApp-Vue.JS" >
+    <img style="width: 250px; height: auto;" src="https://github-readme-stats.vercel.app/api/pin/?username=SubbotinRoman&repo=TodoApp-Vue.JS" alt="TodoApp-Vue.JS" >
   </a>
 
   <a href="https://github.com/SubbotinRoman/counter-app">
-    <img style="width: 300px; height: auto;" src="https://github-readme-stats.vercel.app/api/pin/?username=SubbotinRoman&repo=counter-app" alt="counter-app" >
+    <img style="width: 250px; height: auto;" src="https://github-readme-stats.vercel.app/api/pin/?username=SubbotinRoman&repo=counter-app" alt="counter-app" >
   </a>
 
   <a href="https://github.com/SubbotinRoman/ToDo-List">
-    <img style="width: 300px; height: auto;" src="https://github-readme-stats.vercel.app/api/pin/?username=SubbotinRoman&repo=ToDo-List" alt="ToDo-List" >
+    <img style="width: 250px; height: auto;" src="https://github-readme-stats.vercel.app/api/pin/?username=SubbotinRoman&repo=ToDo-List" alt="ToDo-List" >
   </a>
 
 </div>
@@ -71,7 +71,7 @@
 <h3 align="center">🕘 Статистика</h3>
 
 <div align="center" style="display: flex; justify-content: center; flex-wrap: wrap; gap: 10px; width: 100%;">
-  <img height="300" width=250 src="https://streak-stats.demolab.com?user=SubbotinRoman&locale=en&mode=daily&theme=neon&hide_border=false&border_radius=5&order=3" alt="stats graph"/>
-  <img height="300" width=250 src="https://github-readme-stats.vercel.app/api?username=SubbotinRoman&show_icons=true&theme=neon"alt="languages graph"/>
-  <img height="300" width=250 src="https://github-readme-stats.vercel.app/api/top-langs/?username=SubbotinRoman&langs_count=5&theme=neon" alt="streak graph"/>
+  <img height=auto width=260 src="https://streak-stats.demolab.com?user=SubbotinRoman&locale=en&mode=daily&theme=neon&hide_border=false&border_radius=5&order=3" alt="stats graph"/>
+  <img height=auto width=260 src="https://github-readme-stats.vercel.app/api?username=SubbotinRoman&show_icons=true&theme=neon"alt="languages graph"/>
+  <img height=auto width=260 src="https://github-readme-stats.vercel.app/api/top-langs/?username=SubbotinRoman&langs_count=5&theme=neon" alt="streak graph"/>
 </div>
