@@ -1,6 +1,7 @@
 <!-- Картинка  -->
+
 <div align="center">
-  <img height="400" width="800" src="https://user-images.githubusercontent.com/74038190/225813708-98b745f2-7d22-48cf-9150-083f1b00d6c9.gif"  />
+  <img height="300" width="700" src="https://user-images.githubusercontent.com/74038190/225813708-98b745f2-7d22-48cf-9150-083f1b00d6c9.gif"  />
 </div>
 
 <!-- Анимированное приветсвие кто я  -->
@@ -47,27 +48,30 @@
 <!-- Описание проектов -->
 <h3 align="center"> 💻 Мои проекты</h3>
 
-<div width="100%" align="center">
-<!-- Проект № 1 -->
-  <a align="left" href="https://github-readme-stats.vercel.app/api/pin/?" title="TodoApp-Vue.JS">
-  <img align="left" height="80" src="https://github-readme-stats.vercel.app/api/pin/?username=SubbotinRoman&repo=TodoApp-Vue.JS"></a>
+<div style="display: flex; justify-content: center; flex-wrap: wrap; gap: 5px; width: 100%;">
 
-<!-- Проект № 2 -->
-  <a align="left" href="https://github-readme-stats.vercel.app/api/pin/?" title="counter-app">
-  <img align="center" height="80" src="https://github-readme-stats.vercel.app/api/pin/?username=SubbotinRoman&repo=counter-app"></a>
+  <!-- Каждая ссылка с уменьшенной карточкой -->
+  <a href="https://github.com/SubbotinRoman/TodoApp-Vue.JS">
+    <img style="width: 330px; height: auto;" src="https://github-readme-stats.vercel.app/api/pin/?username=SubbotinRoman&repo=TodoApp-Vue.JS" alt="TodoApp-Vue.JS" >
+  </a>
 
-<!-- Проект № 3 -->
-  <a align="right" href="https://github-readme-stats.vercel.app/api/pin/?" title="ToDo-List">
-  <img align="right" height="80" src="https://github-readme-stats.vercel.app/api/pin/?username=SubbotinRoman&repo=ToDo-List"></a>
+  <a href="https://github.com/SubbotinRoman/counter-app">
+    <img style="width: 330px; height: auto;" src="https://github-readme-stats.vercel.app/api/pin/?username=SubbotinRoman&repo=counter-app" alt="counter-app" >
+  </a>
+
+  <a href="https://github.com/SubbotinRoman/ToDo-List">
+    <img style="width: 330px; height: auto;" src="https://github-readme-stats.vercel.app/api/pin/?username=SubbotinRoman&repo=ToDo-List" alt="ToDo-List" >
+  </a>
+
 </div>
 
-<br/><br/><br/><br/><br/><br/>
+<br/><br/><br/><br/><br/>
 
 <!-- Статистика профиля -->
 <h3 align="center">🕘 Статистика</h3>
 
-<div align="center">
-  <img height="150" width=350 src="https://streak-stats.demolab.com?user=SubbotinRoman&locale=en&mode=daily&theme=neon&hide_border=false&border_radius=5&order=3" alt="stats graph"/>
-  <img height="150" width=330 src="https://github-readme-stats.vercel.app/api?username=SubbotinRoman&show_icons=true&theme=neon"alt="languages graph"/>
-  <img height="150" width=350 src="https://github-readme-stats.vercel.app/api/top-langs/?username=SubbotinRoman&langs_count=5&theme=neon" alt="streak graph"/>
+<div style="display: flex; justify-content: center; flex-wrap: wrap; gap: 10px; width: 100%;">
+  <img height="300" width=350 src="https://streak-stats.demolab.com?user=SubbotinRoman&locale=en&mode=daily&theme=neon&hide_border=false&border_radius=5&order=3" alt="stats graph"/>
+  <img height="300" width=330 src="https://github-readme-stats.vercel.app/api?username=SubbotinRoman&show_icons=true&theme=neon"alt="languages graph"/>
+  <img height="300" width=300 src="https://github-readme-stats.vercel.app/api/top-langs/?username=SubbotinRoman&langs_count=5&theme=neon" alt="streak graph"/>
 </div>
