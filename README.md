@@ -54,8 +54,8 @@
     <img style="width: 275px; height: auto;" src="https://github-readme-stats.vercel.app/api/pin/?username=SubbotinRoman&repo=TodoApp-Vue.JS" alt="TodoApp-Vue.JS" >
   </a>
 
-  <a href="https://github.com/SubbotinRoman/Counter-App-React.JS">
-    <img style="width: 275px; height: auto;" src="https://github-readme-stats.vercel.app/api/pin/?username=SubbotinRoman&repo=Counter-App-React.JS" alt="counter-app" >
+  <a href="https://github.com/SubbotinRoman/CounterApp-React.JS">
+    <img style="width: 275px; height: auto;" src="https://github-readme-stats.vercel.app/api/pin/?username=SubbotinRoman&repo=CounterApp-React.JS" alt="counter-app" >
   </a>
 
   <a href="https://github.com/SubbotinRoman/ToDoList-JS">
