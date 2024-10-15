@@ -43,7 +43,6 @@
 ![Pinia](https://img.shields.io/badge/-Pinia-ffe165?style=for-the-badge&logo=Pinia&labelColor=fffcf0&logoColor=ffe165)
 ![Vite](https://img.shields.io/badge/vite-%23646CFF.svg?style=for-the-badge&logo=vite&logoColor=white)
 
-<br>
 
 <!-- Описание проектов -->
 <h3 align="center"> 💻 Мои проекты</h3>
