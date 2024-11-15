@@ -69,7 +69,7 @@
     <img style="width: 270px; height: 100px;" src="https://github-readme-stats.vercel.app/api/pin/?username=SubbotinRoman&repo=MyBusiness-landing-page" alt="MyBusiness-landing-page" >
   </a>
 
-  <a href="https://github.com/SubbotinRoman/yamaguchi-second-layout">
+  <a href="https://github.com/SubbotinRoman/yamaguchi-first-layout">
     <img style="width: 270px; height: 100px;" src="https://github-readme-stats.vercel.app/api/pin/?username=SubbotinRoman&repo=yamaguchi-second-layout" alt="yamaguchi-second-layout" >
   </a>
 
