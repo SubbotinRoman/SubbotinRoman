@@ -43,13 +43,16 @@
 ![Pinia](https://img.shields.io/badge/-Pinia-ffe165?style=for-the-badge&logo=Pinia&labelColor=fffcf0&logoColor=ffe165)
 ![Vite](https://img.shields.io/badge/vite-%23646CFF.svg?style=for-the-badge&logo=vite&logoColor=white)
 
-
 <!-- Описание проектов -->
 <h3 align="center"> 💻 Мои проекты</h3>
 
 <div align="center" style="display: flex; justify-content: center; flex-wrap: wrap; gap: 5px; width: 100%;">
 
   <!-- Каждая ссылка с уменьшенной карточкой -->
+   <a href="https://github.com/SubbotinRoman/AuthorizationApp-Vue.JS">
+    <img style="width: 270px; height: auto;" src="https://github-readme-stats.vercel.app/api/pin/?username=SubbotinRoman&repo=AuthorizationApp-Vue.JS" alt="AuthorizationApp-Vue.JS" >
+  </a>
+  
   <a href="https://github.com/SubbotinRoman/TodoApp-Vue.JS">
     <img style="width: 270px; height: auto;" src="https://github-readme-stats.vercel.app/api/pin/?username=SubbotinRoman&repo=TodoApp-Vue.JS" alt="TodoApp-Vue.JS" >
   </a>
@@ -60,6 +63,14 @@
 
   <a href="https://github.com/SubbotinRoman/ToDoList-JS">
     <img style="width: 270px; height: auto;" src="https://github-readme-stats.vercel.app/api/pin/?username=SubbotinRoman&repo=ToDoList-JS" alt="ToDo-List" >
+  </a>
+
+  <a href="https://github.com/SubbotinRoman/MyBusiness-landing-page">
+    <img style="width: 270px; height: auto;" src="https://github-readme-stats.vercel.app/api/pin/?username=SubbotinRoman&repo=MyBusiness-landing-page" alt="MyBusiness-landing-page" >
+  </a>
+
+  <a href="https://github.com/SubbotinRoman/yamaguchi-second-layout">
+    <img style="width: 270px; height: auto;" src="https://github-readme-stats.vercel.app/api/pin/?username=SubbotinRoman&repo=yamaguchi-second-layout" alt="yamaguchi-second-layout" >
   </a>
 
 </div>
