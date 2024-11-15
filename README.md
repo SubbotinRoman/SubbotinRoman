@@ -50,27 +50,27 @@
 
   <!-- Каждая ссылка с уменьшенной карточкой -->
    <a href="https://github.com/SubbotinRoman/AuthorizationApp-Vue.JS">
-    <img style="width: 270px; height: 100px;" src="https://github-readme-stats.vercel.app/api/pin/?username=SubbotinRoman&repo=AuthorizationApp-Vue.JS" alt="AuthorizationApp-Vue.JS" >
+    <img style="width: 270px; height: auto;" src="https://github-readme-stats.vercel.app/api/pin/?username=SubbotinRoman&repo=AuthorizationApp-Vue.JS" alt="AuthorizationApp-Vue.JS" >
   </a>
 
   <a href="https://github.com/SubbotinRoman/TodoApp-Vue.JS">
-    <img style="width: 270px; height: 100px;" src="https://github-readme-stats.vercel.app/api/pin/?username=SubbotinRoman&repo=TodoApp-Vue.JS" alt="TodoApp-Vue.JS" >
+    <img style="width: 270px; height: auto;" src="https://github-readme-stats.vercel.app/api/pin/?username=SubbotinRoman&repo=TodoApp-Vue.JS" alt="TodoApp-Vue.JS" >
   </a>
 
   <a href="https://github.com/SubbotinRoman/CounterApp-React.JS">
-    <img style="width: 270px; height: 100px;" src="https://github-readme-stats.vercel.app/api/pin/?username=SubbotinRoman&repo=CounterApp-React.JS" alt="counter-app" >
+    <img style="width: 270px; height: auto;" src="https://github-readme-stats.vercel.app/api/pin/?username=SubbotinRoman&repo=CounterApp-React.JS" alt="counter-app" >
   </a>
 
   <a href="https://github.com/SubbotinRoman/ToDoList-JS">
-    <img style="width: 270px; height: 100px;" src="https://github-readme-stats.vercel.app/api/pin/?username=SubbotinRoman&repo=ToDoList-JS" alt="ToDo-List" >
+    <img style="width: 270px; height: auto;" src="https://github-readme-stats.vercel.app/api/pin/?username=SubbotinRoman&repo=ToDoList-JS" alt="ToDo-List" >
   </a>
 
   <a href="https://github.com/SubbotinRoman/MyBusiness-landing-page">
-    <img style="width: 270px; height: 100px;" src="https://github-readme-stats.vercel.app/api/pin/?username=SubbotinRoman&repo=MyBusiness-landing-page" alt="MyBusiness-landing-page" >
+    <img style="width: 270px; height: auto;" src="https://github-readme-stats.vercel.app/api/pin/?username=SubbotinRoman&repo=MyBusiness-landing-page" alt="MyBusiness-landing-page" >
   </a>
 
   <a href="https://github.com/SubbotinRoman/yamaguchi-first-layout">
-    <img style="width: 270px; height: 100px;" src="https://github-readme-stats.vercel.app/api/pin/?username=SubbotinRoman&repo=yamaguchi-second-layout" alt="yamaguchi-second-layout" >
+    <img style="width: 270px; height: auto;" src="https://github-readme-stats.vercel.app/api/pin/?username=SubbotinRoman&repo=yamaguchi-second-layout" alt="yamaguchi-second-layout" >
   </a>
 
 </div>
