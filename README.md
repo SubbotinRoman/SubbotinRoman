@@ -73,17 +73,17 @@
     <tr>
       <td style="padding: 0; width: 33.33%;">
         <a href="https://github.com/SubbotinRoman/TradeApp-ExtJS">
-          <img width="100%" src="https://github-readme-stats.vercel.app/api/pin/?username=SubbotinRoman&repo=TradeApp-ExtJS&theme=transparent&hide_border=true&show_owner=false&bg_color=0D1117&title_color=FFFFFF&text_color=8B949E&icon_color=FFFFFF" alt="TradeApp-ExtJS">
+          <img width="100%" src="https://github-readme-stats.vercel.app/api/pin/?username=SubbotinRoman&repo=TradeApp-ExtJS&theme=dark&hide_border=true&show_owner=false&bg_color=0D1117&title_color=FFFFFF&text_color=8B949E&icon_color=FFFFFF" alt="TradeApp-ExtJS">
         </a>
       </td>
       <td style="padding: 0; width: 33.33%;">
         <a href="https://github.com/SubbotinRoman/PixiSkia-App">
-          <img width="100%" src="https://github-readme-stats.vercel.app/api/pin/?username=SubbotinRoman&repo=PixiSkia-App&theme=transparent&hide_border=true&show_owner=false&bg_color=0D1117&title_color=FFFFFF&text_color=8B949E&icon_color=FFFFFF" alt="PixiSkia-App">
+          <img width="100%" src="https://github-readme-stats.vercel.app/api/pin/?username=SubbotinRoman&repo=PixiSkia-App&theme=dark&hide_border=true&show_owner=false&bg_color=0D1117&title_color=FFFFFF&text_color=8B949E&icon_color=FFFFFF" alt="PixiSkia-App">
         </a>
       </td>
       <td style="padding: 0; width: 33.33%;">
         <a href="https://github.com/SubbotinRoman/FourHorseClub-JS">
-          <img width="100%" src="https://github-readme-stats.vercel.app/api/pin/?username=SubbotinRoman&repo=FourHorseClub-JS&theme=transparent&hide_border=true&show_owner=false&bg_color=0D1117&title_color=FFFFFF&text_color=8B949E&icon_color=FFFFFF" alt="FourHorseClub-JS">
+          <img width="100%" src="https://github-readme-stats.vercel.app/api/pin/?username=SubbotinRoman&repo=FourHorseClub-JS&theme=dark&hide_border=true&show_owner=false&bg_color=0D1117&title_color=FFFFFF&text_color=8B949E&icon_color=FFFFFF" alt="FourHorseClub-JS">
         </a>
       </td>
     </tr>
