@@ -36,43 +36,57 @@
 ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
 ![SASS](https://img.shields.io/badge/SASS-hotpink.svg?style=for-the-badge&logo=SASS&logoColor=white)
+![TailwindCSS](https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
 ![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white)
+![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
+![Redux](https://img.shields.io/badge/redux-%23593d88.svg?style=for-the-badge&logo=redux&logoColor=white)
 ![Vue.js](https://img.shields.io/badge/vuejs-%2335495e.svg?style=for-the-badge&logo=vuedotjs&logoColor=%234FC08D)
-![TailwindCSS](https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white)
+![MUI](https://img.shields.io/badge/MUI-%230081CB.svg?style=for-the-badge&logo=mui&logoColor=white)
+![Jest](https://img.shields.io/badge/-jest-%23C21325?style=for-the-badge&logo=jest&logoColor=white)
 ![Pinia](https://img.shields.io/badge/-Pinia-ffe165?style=for-the-badge&logo=Pinia&labelColor=fffcf0&logoColor=ffe165)
 ![Vite](https://img.shields.io/badge/vite-%23646CFF.svg?style=for-the-badge&logo=vite&logoColor=white)
 
 <!-- Описание проектов -->
 <h3 align="center"> 💻 Мои проекты</h3>
 
-<div align="center" style="display: flex; justify-content: center; flex-wrap: wrap; gap: 5px; width: 100%;">
-
-  <!-- Каждая ссылка с уменьшенной карточкой -->
-   <a href="https://github.com/SubbotinRoman/AuthorizationApp-Vue.JS">
-    <img style="width: 270px; height: auto;" src="https://github-readme-stats.vercel.app/api/pin/?username=SubbotinRoman&repo=AuthorizationApp-Vue.JS" alt="AuthorizationApp-Vue.JS" >
-  </a>
-
-  <a href="https://github.com/SubbotinRoman/TodoApp-Vue.JS">
-    <img style="width: 270px; height: auto;" src="https://github-readme-stats.vercel.app/api/pin/?username=SubbotinRoman&repo=TodoApp-Vue.JS" alt="TodoApp-Vue.JS" >
-  </a>
-
-  <a href="https://github.com/SubbotinRoman/CounterApp-React.JS">
-    <img style="width: 270px; height: auto;" src="https://github-readme-stats.vercel.app/api/pin/?username=SubbotinRoman&repo=CounterApp-React.JS" alt="counter-app" >
-  </a>
-
-  <a href="https://github.com/SubbotinRoman/ToDoList-JS">
-    <img style="width: 270px; height: auto;" src="https://github-readme-stats.vercel.app/api/pin/?username=SubbotinRoman&repo=ToDoList-JS" alt="ToDo-List" >
-  </a>
-
-  <a href="https://github.com/SubbotinRoman/MyBusiness-landing-page">
-    <img style="width: 270px; height: auto;" src="https://github-readme-stats.vercel.app/api/pin/?username=SubbotinRoman&repo=MyBusiness-landing-page" alt="MyBusiness-landing-page" >
-  </a>
-
-  <a href="https://github.com/SubbotinRoman/yamaguchi-first-layout">
-    <img style="width: 270px; height: auto;" src="https://github-readme-stats.vercel.app/api/pin/?username=SubbotinRoman&repo=yamaguchi-second-layout" alt="yamaguchi-second-layout" >
-  </a>
-
+<div align="center">
+  <table>
+    <tr>
+      <td>
+        <a href="https://github.com/SubbotinRoman/AuthorizationApp-Vue.JS">
+          <img width="282" src="https://github-readme-stats.vercel.app/api/pin/?username=SubbotinRoman&repo=AuthorizationApp-Vue.JS" alt="AuthorizationApp-Vue.JS">
+        </a>
+      </td>
+      <td>
+        <a href="https://github.com/SubbotinRoman/TodoApp-Vue.JS">
+          <img width="282" src="https://github-readme-stats.vercel.app/api/pin/?username=SubbotinRoman&repo=TodoApp-Vue.JS" alt="TodoApp-Vue.JS">
+        </a>
+      </td>
+      <td>
+        <a href="https://github.com/SubbotinRoman/CounterApp-React.JS">
+          <img width="282" src="https://github-readme-stats.vercel.app/api/pin/?username=SubbotinRoman&repo=CounterApp-React.JS" alt="counter-app">
+        </a>
+      </td>
+    </tr>
+    <tr>
+      <td>
+        <a href="https://github.com/SubbotinRoman/ToDoList-JS">
+          <img width="282" src="https://github-readme-stats.vercel.app/api/pin/?username=SubbotinRoman&repo=ToDoList-JS" alt="ToDo-List">
+        </a>
+      </td>
+      <td>
+        <a href="https://github.com/SubbotinRoman/MyBusiness-landing-page">
+          <img width="282" src="https://github-readme-stats.vercel.app/api/pin/?username=SubbotinRoman&repo=MyBusiness-landing-page" alt="MyBusiness-landing-page">
+        </a>
+      </td>
+      <td>
+        <a href="https://github.com/SubbotinRoman/yamaguchi-first-layout">
+          <img width="282" src="https://github-readme-stats.vercel.app/api/pin/?username=SubbotinRoman&repo=yamaguchi-second-layout" alt="yamaguchi-second-layout">
+        </a>
+      </td>
+    </tr>
+  </table>
 </div>
 
 <br/><br/><br/><br/><br/>
