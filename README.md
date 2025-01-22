@@ -99,10 +99,10 @@
   <table>
     <tr>
       <td>
-        <img width="350" src="https://github-readme-stats.vercel.app/api?username=SubbotinRoman&show_icons=true&theme=neon&hide_border=true&card_width=350&rank_icon=github" alt="github stats"/>
+        <img width="350" src="https://github-readme-stats.vercel.app/api?username=SubbotinRoman&show_icons=true&theme=dark&hide_border=true&card_width=350&rank_icon=github&bg_color=0D1117" alt="github stats"/>
       </td>
       <td>
-        <img width="350" src="https://github-readme-stats.vercel.app/api/top-langs/?username=SubbotinRoman&layout=compact&theme=neon&hide_border=true&card_width=350&langs_count=6" alt="top langs"/>
+        <img width="350" src="https://github-readme-stats.vercel.app/api/top-langs/?username=SubbotinRoman&layout=compact&theme=dark&hide_border=true&card_width=350&langs_count=6&bg_color=0D1117" alt="top langs"/>
       </td>
     </tr>
   </table>
