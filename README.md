@@ -52,55 +52,55 @@
 <h3 align="center"> 💻 Мои проекты</h3>
 
 <div align="center">
-  <table cellspacing="0" cellpadding="0">
+  <table cellspacing="0" cellpadding="0" style="border-spacing: 0; border-collapse: collapse;">
     <tr>
-      <td>
+      <td style="padding: 0; width: 33.33%;">
         <a href="https://github.com/SubbotinRoman/AuthorizationApp-Vue.JS">
-          <img width="278" src="https://github-readme-stats.vercel.app/api/pin/?username=SubbotinRoman&repo=AuthorizationApp-Vue.JS&theme=transparent&hide_border=true&show_owner=false&bg_color=0D1117&title_color=FFFFFF&text_color=8B949E&icon_color=FFFFFF" alt="AuthorizationApp-Vue.JS">
+          <img width="100%" src="https://github-readme-stats.vercel.app/api/pin/?username=SubbotinRoman&repo=AuthorizationApp-Vue.JS&theme=transparent&hide_border=true&show_owner=false&bg_color=0D1117&title_color=FFFFFF&text_color=8B949E&icon_color=FFFFFF" alt="AuthorizationApp-Vue.JS">
         </a>
       </td>
-      <td>
+      <td style="padding: 0; width: 33.33%;">
         <a href="https://github.com/SubbotinRoman/TodoApp-Vue.JS">
-          <img width="278" src="https://github-readme-stats.vercel.app/api/pin/?username=SubbotinRoman&repo=TodoApp-Vue.JS&theme=transparent&hide_border=true&show_owner=false&bg_color=0D1117&title_color=FFFFFF&text_color=8B949E&icon_color=FFFFFF" alt="TodoApp-Vue.JS">
+          <img width="100%" src="https://github-readme-stats.vercel.app/api/pin/?username=SubbotinRoman&repo=TodoApp-Vue.JS&theme=transparent&hide_border=true&show_owner=false&bg_color=0D1117&title_color=FFFFFF&text_color=8B949E&icon_color=FFFFFF" alt="TodoApp-Vue.JS">
         </a>
       </td>
-      <td>
+      <td style="padding: 0; width: 33.33%;">
         <a href="https://github.com/SubbotinRoman/TodoApp-React.JS">
-          <img width="278" src="https://github-readme-stats.vercel.app/api/pin/?username=SubbotinRoman&repo=TodoApp-React.JS&theme=transparent&hide_border=true&show_owner=false&bg_color=0D1117&title_color=FFFFFF&text_color=8B949E&icon_color=FFFFFF" alt="TodoApp-React.JS">
+          <img width="100%" src="https://github-readme-stats.vercel.app/api/pin/?username=SubbotinRoman&repo=TodoApp-React.JS&theme=transparent&hide_border=true&show_owner=false&bg_color=0D1117&title_color=FFFFFF&text_color=8B949E&icon_color=FFFFFF" alt="TodoApp-React.JS">
         </a>
       </td>
     </tr>
     <tr>
-      <td>
+      <td style="padding: 0; width: 33.33%;">
         <a href="https://github.com/SubbotinRoman/TradeApp-ExtJS">
-          <img width="278" src="https://github-readme-stats.vercel.app/api/pin/?username=SubbotinRoman&repo=TradeApp-ExtJS&theme=transparent&hide_border=true&show_owner=false&bg_color=0D1117&title_color=FFFFFF&text_color=8B949E&icon_color=FFFFFF" alt="TradeApp-ExtJS">
+          <img width="100%" src="https://github-readme-stats.vercel.app/api/pin/?username=SubbotinRoman&repo=TradeApp-ExtJS&theme=transparent&hide_border=true&show_owner=false&bg_color=0D1117&title_color=FFFFFF&text_color=8B949E&icon_color=FFFFFF" alt="TradeApp-ExtJS">
         </a>
       </td>
-      <td>
+      <td style="padding: 0; width: 33.33%;">
         <a href="https://github.com/SubbotinRoman/PixiSkia-App">
-          <img width="278" src="https://github-readme-stats.vercel.app/api/pin/?username=SubbotinRoman&repo=PixiSkia-App&theme=transparent&hide_border=true&show_owner=false&bg_color=0D1117&title_color=FFFFFF&text_color=8B949E&icon_color=FFFFFF" alt="PixiSkia-App">
+          <img width="100%" src="https://github-readme-stats.vercel.app/api/pin/?username=SubbotinRoman&repo=PixiSkia-App&theme=transparent&hide_border=true&show_owner=false&bg_color=0D1117&title_color=FFFFFF&text_color=8B949E&icon_color=FFFFFF" alt="PixiSkia-App">
         </a>
       </td>
-      <td>
+      <td style="padding: 0; width: 33.33%;">
         <a href="https://github.com/SubbotinRoman/FourHorseClub-JS">
-          <img width="278" src="https://github-readme-stats.vercel.app/api/pin/?username=SubbotinRoman&repo=FourHorseClub-JS&theme=transparent&hide_border=true&show_owner=false&bg_color=0D1117&title_color=FFFFFF&text_color=8B949E&icon_color=FFFFFF" alt="FourHorseClub-JS">
+          <img width="100%" src="https://github-readme-stats.vercel.app/api/pin/?username=SubbotinRoman&repo=FourHorseClub-JS&theme=transparent&hide_border=true&show_owner=false&bg_color=0D1117&title_color=FFFFFF&text_color=8B949E&icon_color=FFFFFF" alt="FourHorseClub-JS">
         </a>
       </td>
     </tr>
     <tr>
-      <td>
+      <td style="padding: 0; width: 33.33%;">
         <a href="https://github.com/SubbotinRoman/MyBusiness-landing-page">
-          <img width="278" src="https://github-readme-stats.vercel.app/api/pin/?username=SubbotinRoman&repo=MyBusiness-landing-page&theme=transparent&hide_border=true&show_owner=false&bg_color=0D1117&title_color=FFFFFF&text_color=8B949E&icon_color=FFFFFF" alt="MyBusiness-landing-page">
+          <img width="100%" src="https://github-readme-stats.vercel.app/api/pin/?username=SubbotinRoman&repo=MyBusiness-landing-page&theme=transparent&hide_border=true&show_owner=false&bg_color=0D1117&title_color=FFFFFF&text_color=8B949E&icon_color=FFFFFF" alt="MyBusiness-landing-page">
         </a>
       </td>
-      <td>
+      <td style="padding: 0; width: 33.33%;">
         <a href="https://github.com/SubbotinRoman/yamaguchi-first-layout">
-          <img width="278" src="https://github-readme-stats.vercel.app/api/pin/?username=SubbotinRoman&repo=yamaguchi-first-layout&theme=transparent&hide_border=true&show_owner=false&bg_color=0D1117&title_color=FFFFFF&text_color=8B949E&icon_color=FFFFFF" alt="yamaguchi-first-layout">
+          <img width="100%" src="https://github-readme-stats.vercel.app/api/pin/?username=SubbotinRoman&repo=yamaguchi-first-layout&theme=transparent&hide_border=true&show_owner=false&bg_color=0D1117&title_color=FFFFFF&text_color=8B949E&icon_color=FFFFFF" alt="yamaguchi-first-layout">
         </a>
       </td>
-      <td>
+      <td style="padding: 0; width: 33.33%;">
         <a href="https://github.com/SubbotinRoman/yamaguchi-second-layout">
-          <img width="278" src="https://github-readme-stats.vercel.app/api/pin/?username=SubbotinRoman&repo=yamaguchi-second-layout&theme=transparent&hide_border=true&show_owner=false&bg_color=0D1117&title_color=FFFFFF&text_color=8B949E&icon_color=FFFFFF" alt="yamaguchi-second-layout">
+          <img width="100%" src="https://github-readme-stats.vercel.app/api/pin/?username=SubbotinRoman&repo=yamaguchi-second-layout&theme=transparent&hide_border=true&show_owner=false&bg_color=0D1117&title_color=FFFFFF&text_color=8B949E&icon_color=FFFFFF" alt="yamaguchi-second-layout">
         </a>
       </td>
     </tr>
