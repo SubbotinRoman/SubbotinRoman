@@ -94,8 +94,18 @@
 <!-- Статистика профиля -->
 <h3 align="center">🕘 Статистика</h3>
 
-<div align="center" style="display: flex; justify-content: center; flex-wrap: wrap; gap: 10px; width: 100%;">
-  <img height=auto width=260 src="https://streak-stats.demolab.com?user=SubbotinRoman&locale=en&mode=daily&theme=neon&hide_border=false&border_radius=5&order=3" alt="stats graph"/>
-  <img height=auto width=260 src="https://github-readme-stats.vercel.app/api?username=SubbotinRoman&show_icons=true&theme=neon"alt="languages graph"/>
-  <img height=auto width=260 src="https://github-readme-stats.vercel.app/api/top-langs/?username=SubbotinRoman&langs_count=5&theme=neon" alt="streak graph"/>
+<div align="center">
+  <table>
+    <tr>
+      <td>
+        <img width="278" src="https://github-readme-streak-stats.herokuapp.com/?user=SubbotinRoman&theme=neon" alt="streak stats"/>
+      </td>
+      <td>
+        <img width="278" src="https://github-readme-stats.vercel.app/api?username=SubbotinRoman&show_icons=true&theme=neon" alt="github stats"/>
+      </td>
+      <td>
+        <img width="278" src="https://github-readme-stats.vercel.app/api/top-langs/?username=SubbotinRoman&layout=compact&theme=neon" alt="top langs"/>
+      </td>
+    </tr>
+  </table>
 </div>
