@@ -52,38 +52,38 @@
 <h3 align="center"> 💻 Мои проекты</h3>
 
 <div align="center">
-  <table>
+  <table cellspacing="0" cellpadding="0">
     <tr>
       <td>
         <a href="https://github.com/SubbotinRoman/AuthorizationApp-Vue.JS">
-          <img width="282" src="https://github-readme-stats.vercel.app/api/pin/?username=SubbotinRoman&repo=AuthorizationApp-Vue.JS&theme=neon&hide_border=true" alt="AuthorizationApp-Vue.JS">
+          <img width="278" src="https://github-readme-stats.vercel.app/api/pin/?username=SubbotinRoman&repo=AuthorizationApp-Vue.JS&theme=dark&hide_border=true&show_owner=false&bg_color=0D1117&description=Vue.js%20Application%20Project" alt="AuthorizationApp-Vue.JS">
         </a>
       </td>
       <td>
         <a href="https://github.com/SubbotinRoman/TodoApp-Vue.JS">
-          <img width="282" src="https://github-readme-stats.vercel.app/api/pin/?username=SubbotinRoman&repo=TodoApp-Vue.JS&theme=neon&hide_border=true" alt="TodoApp-Vue.JS">
+          <img width="278" src="https://github-readme-stats.vercel.app/api/pin/?username=SubbotinRoman&repo=TodoApp-Vue.JS&theme=dark&hide_border=true&show_owner=false&bg_color=0D1117&description=Vue.js%20Application%20Project" alt="TodoApp-Vue.JS">
         </a>
       </td>
       <td>
         <a href="https://github.com/SubbotinRoman/CounterApp-React.JS">
-          <img width="282" src="https://github-readme-stats.vercel.app/api/pin/?username=SubbotinRoman&repo=CounterApp-React.JS&theme=neon&hide_border=true" alt="counter-app">
+          <img width="278" src="https://github-readme-stats.vercel.app/api/pin/?username=SubbotinRoman&repo=CounterApp-React.JS&theme=dark&hide_border=true&show_owner=false&bg_color=0D1117&description=React%20Application%20Project" alt="counter-app">
         </a>
       </td>
     </tr>
     <tr>
       <td>
         <a href="https://github.com/SubbotinRoman/ToDoList-JS">
-          <img width="282" src="https://github-readme-stats.vercel.app/api/pin/?username=SubbotinRoman&repo=ToDoList-JS&theme=neon&hide_border=true" alt="ToDo-List">
+          <img width="278" src="https://github-readme-stats.vercel.app/api/pin/?username=SubbotinRoman&repo=ToDoList-JS&theme=dark&hide_border=true&show_owner=false&bg_color=0D1117&description=JavaScript%20Application%20Project" alt="ToDo-List">
         </a>
       </td>
       <td>
         <a href="https://github.com/SubbotinRoman/MyBusiness-landing-page">
-          <img width="282" src="https://github-readme-stats.vercel.app/api/pin/?username=SubbotinRoman&repo=MyBusiness-landing-page&theme=neon&hide_border=true" alt="MyBusiness-landing-page">
+          <img width="278" src="https://github-readme-stats.vercel.app/api/pin/?username=SubbotinRoman&repo=MyBusiness-landing-page&theme=dark&hide_border=true&show_owner=false&bg_color=0D1117&description=Landing%20Page%20Project" alt="MyBusiness-landing-page">
         </a>
       </td>
       <td>
         <a href="https://github.com/SubbotinRoman/yamaguchi-first-layout">
-          <img width="282" src="https://github-readme-stats.vercel.app/api/pin/?username=SubbotinRoman&repo=yamaguchi-second-layout&theme=neon&hide_border=true" alt="yamaguchi-second-layout">
+          <img width="278" src="https://github-readme-stats.vercel.app/api/pin/?username=SubbotinRoman&repo=yamaguchi-second-layout&theme=dark&hide_border=true&show_owner=false&bg_color=0D1117&description=Landing%20Page%20Project" alt="yamaguchi-second-layout">
         </a>
       </td>
     </tr>
